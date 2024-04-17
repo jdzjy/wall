@@ -1,30 +1,58 @@
 [
   {
-    "pt_pin": "jd",#pin
-    "remarks": "南辞🐳",#备注
+    "pt_pin": "pin_pin",#pin
+    "remarks": "我的",#备注
     "address": {
-      "receiver": "晴天",#收货名
-      "phone": "130",#电话
-      "province": "浙",#省
-      "city": "嘉",#市
-      "county": "秀",#区
-      "address": "洪",#镇
-      "postalCode": "314011",
-      "areaCode": "330411"
+      "receiver": "我的",#收货名
+      "phone": "13******6",#电话
+      "province": "省",#省
+      "city": "市",#市#区
+      "county": "区",
+      "address": "xx路",#镇
+      "postalCode": "100000",
+      "areaCode": "100000"
     }
   },
   {
-    "pt_pin": "jd_",
-    "remarks": "南辞🐳",
+    "pt_pin": "pin_pin",
+    "remarks": "大大姐",
     "address": {
-      "receiver": "晴天",
-      "phone": "130",
-      "province": "浙",
-      "city": "嘉",
-      "county": "秀",
-      "address": "洪",
-      "postalCode": "314011",
-      "areaCode": "330411"
+      "receiver": "大大姐",
+      "phone": "13******6",
+      "province": "省",
+      "city": "市",
+      "county": "区",
+      "address": "xx路",
+      "postalCode": "100000",
+      "areaCode": "100000"
+    }
+  },
+  {
+    "pt_pin": "默认地址1",
+    "remarks": "默认地址1",
+    "address": {
+      "receiver": "默认地址1",
+      "phone": "13******6",
+      "province": "省",
+      "city": "市",
+      "county": "区",
+      "address": "xx路",
+      "postalCode": "100000",
+      "areaCode": "100000"
+    }
+  },
+  {
+    "pt_pin": "默认地址2",
+    "remarks": "默认地址2",
+    "address": {
+      "receiver": "默认地址2",
+      "phone": "13******6",
+      "province": "省",
+      "city": "市",
+      "county": "区",
+      "address": "xx路",
+      "postalCode": "100000",
+      "areaCode": "100000"
     }
   }
 ]
